@@ -4,10 +4,6 @@ import PackageDescription
 
 let package = Package(
     name: "Instant",
-    platforms: [
-        .iOS(.v14),
-        .macCatalyst(.v14)
-    ],
     products: [
         .library(
             name: "Instant",
