@@ -1,5 +1,5 @@
-Enable document collaboration in your app
-=========================================
+Swift Package for PSPDFKit Instant
+ ==================================
 
 Sync document edits, text highlights and annotations across devices in real time.
 
