@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Instant",
-            url: "https://customers.pspdfkit.com/instant/xcframework/11.5.2.zip",
-            checksum: "102e959250e1470991e3f01375184f972ae4e98e83eebf7e1d6b5f490f99f25e"),
+            url: "https://customers.pspdfkit.com/instant/xcframework/12.0.0.zip",
+            checksum: "4e49fcfce5a5babd25938a07fc201113c77a8cfdb84de1761df5e35fda81f4ed"),
     ]
 )
