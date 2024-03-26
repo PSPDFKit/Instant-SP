@@ -1,4 +1,4 @@
-// swift-tools-version: 5.9
+// swift-tools-version: 5.10
 
 import PackageDescription
 
@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Instant",
-            url: "https://customers.pspdfkit.com/instant/xcframework/13.3.3.zip",
-            checksum: "7709bba979f462551ad4d5e32e0b18a2339ccdc70be3b7dfbc2b25d25c7900bc"),
+            url: "https://customers.pspdfkit.com/instant/xcframework/13.4.0.zip",
+            checksum: "0a6aa5d43cc017b007700072daed1367f9a7dbeb56aad980a7ef1e7723b70802"),
     ]
 )
