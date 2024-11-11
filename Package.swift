@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Instant",
+    name: "Nutrient Instant",
     platforms: [
         .iOS(.v15),
         .macCatalyst(.v15),
