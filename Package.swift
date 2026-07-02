@@ -1,4 +1,4 @@
-// swift-tools-version: 6.2
+// swift-tools-version: 6.3
 
 import PackageDescription
 
@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Instant",
-            url: "https://my.nutrient.io/instant/xcframework/26.9.0.zip",
-            checksum: "8aff24638f210af26f495dcc1140735c0336744d94a4ea31eecfc7e89787abd5"),
+            url: "https://my.nutrient.io/instant/xcframework/26.10.0.zip",
+            checksum: "d23d11307c57958da8fabb10e9680efa5bae174cf57b0e055c5241a31c8563bf"),
     ]
 )
