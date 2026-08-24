@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Instant",
-            url: "https://my.nutrient.io/instant/xcframework/26.11.0.zip",
-            checksum: "0f0ce16a94cdf3d42c112ba7b55630bee9d7afc70a7050b2e1a0a8a8a38b4375"),
+            url: "https://my.nutrient.io/instant/xcframework/26.12.0.zip",
+            checksum: "8db8411a11455bae9bb2f40a706cb496a632f8f338c9ec91bf5d20ada80618f5"),
     ]
 )
